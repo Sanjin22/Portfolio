@@ -424,7 +424,6 @@ hr {
   width: 100%;
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
   border-top-right-radius: 20px;
   border-top-left-radius: 20px;
 }
@@ -435,12 +434,21 @@ hr {
   width: 100%;
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
   border-top-right-radius: 20px;
   border-top-left-radius: 20px;
 }
 
 .projectsImage3 {
+  background-image: url(./images/rentacar.PNG);
+  height: 250px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+
+.projectsImage4 {
   background-image: url(./images/commingsoon.png);
   height: 250px;
   width: 100%;
